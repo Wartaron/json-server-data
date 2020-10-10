@@ -1,0 +1,19 @@
+{
+  "persons": [
+    {
+      "description": "Sit aliquip pariatur et eiusmod elit esse cillum.",
+      "id": 1,
+      "name": "Pope Francis",
+      "reference": "https://en.wikipedia.org/wiki/Pope_Francis",
+      "thumbsDown": 36,
+      "thumbsUp": 25
+    },
+    {
+      "id": 2,
+      "name": "Kanye West",
+      "thumbsUp": 2671069327,
+      "thumbsDown": 3741023019,
+      "reference": "https://en.wikipedia.org/wiki/Kanye_West"
+    }
+  ]
+}
