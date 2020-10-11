@@ -11,8 +11,8 @@
     {
       "id": 2,
       "name": "Kanye West",
-      "thumbsUp": 2671069327,
-      "thumbsDown": 3741023019,
+      "thumbsUp": 15,
+      "thumbsDown": 16,
       "reference": "https://en.wikipedia.org/wiki/Kanye_West",
       "description": "Sit incididunt enim officia amet ipsum id.",
       "image": "https://www.mondosonoro.com/wp-content/uploads/2019/06/kanye-west-promo.jpg"
@@ -20,8 +20,8 @@
     {
       "id": 3,
       "name": "Mark Zuckerberg",
-      "thumbsUp": 424,
-      "thumbsDown": 157,
+      "thumbsUp": 30,
+      "thumbsDown": 50,
       "reference": "https://en.wikipedia.org/wiki/Kanye_West",
       "description": "Labore minim non in dolor nostrud pariatur tempor dolore eiusmod esse esse cillum dolore.",
       "image": "https://about.fb.com/es/wp-content/uploads/sites/13/2019/01/mz.jpg"
@@ -29,8 +29,8 @@
     {
       "id": 5,
       "name": "Cristina Fernández de Kirchner",
-      "thumbsUp": 315,
-      "thumbsDown": 296,
+      "thumbsUp": 14,
+      "thumbsDown": 0,
       "reference": "https://en.wikipedia.org/wiki/Cristina_Fern%C3%A1ndez_de_Kirchner",
       "description": "Et aliquip magna reprehenderit eu reprehenderit do magna ea eu.",
       "image": "https://s1.eestatic.com/2019/05/18/mundo/america/Cristina_Fernandez_de_Kirchner-Argentina-Peronismo-America_399472368_123198211_1024x576.jpg"
@@ -38,8 +38,8 @@
     {
       "id": 6,
       "name": "Malala Yousafzai",
-      "thumbsUp": 367,
-      "thumbsDown": 139,
+      "thumbsUp": 0,
+      "thumbsDown": 60,
       "reference": "https://en.wikipedia.org/wiki/Malala_Yousafzai",
       "description": "Nostrud minim exercitation ipsum deserunt nostrud minim voluptate ullamco commodo veniam esse deserunt labore incididunt.",
       "image": "https://blog.teachlr.com/wp-content/uploads/2019/02/femina-laredo.jpg"
